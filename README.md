@@ -22,5 +22,18 @@
 <img src="lib6.jpg" height="300" width="300">
 <img src="lib7.jpg" height="300" width="300">
 <img src="lib8.jpg" height="300" width="300">
-<img src="lib9.jpg" height="600" width="600">
+<img src="lib9.jpg" height="500" width="500">
+<img src="lib10.jpg" height="500" width="350">
+</p>
+
+# Farzana's Eccentricities Part 2
+<p float="left">  
+<img src="farz6.jpg" height="500" width="500">
+<img src="farz7.jpg" height="500" width="350" >
+<img src="farz8.jpg" height="300" width="300">
+<img src="farz9.jpg" height="300" width="300">
+<img src="farz10.jpg" height="300" width="300">
+<img src="farz11.jpg" height="300" width="300">
+<img src="farz12.jpg" height="300" width="300">
+<img src="farz13.jpg" height="300" width="300">
 </p>
