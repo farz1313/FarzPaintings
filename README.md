@@ -23,7 +23,7 @@
 <img src="lib7.jpg" height="300" width="300">
 <img src="lib8.jpg" height="300" width="300">
 <img src="lib9.jpg" height="500" width="500">
-<img src="lib10.jpg" height="500" width="350">
+<img src="lib10.jpg" height="500" width="400">
 </p>
 
 # Farzana's Eccentricities Part 2
