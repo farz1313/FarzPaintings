@@ -5,7 +5,7 @@ Youtube:
 
 [![Breathe with kitty](https://github.com/farz1313/FarzPaintings/blob/main/breathe_thumbnail.png)](https://www.youtube.com/shorts/Ku6l881MkNI)
 
-[Catto Video](https://github.com/farz1313/FarzPaintings/blob/main/Farz%20Cattos-5.mp4)
+
 
 
 # Farzana's Eccentricities #
