@@ -6,13 +6,6 @@ Youtube:
 [![Breathe with kitty](https://github.com/farz1313/FarzPaintings/blob/main/breathe_thumbnail.png)](https://www.youtube.com/shorts/Ku6l881MkNI)
 
 
-https://github.com/user-attachments/assets/e9fe9d6e-3d1e-4779-9651-7a644a0491c1
-
-
-https://github.com/user-attachments/assets/a678478f-9e3b-4458-8976-2dd46950d664
-
-
-
 # Farzana's Eccentricities #
 
 
